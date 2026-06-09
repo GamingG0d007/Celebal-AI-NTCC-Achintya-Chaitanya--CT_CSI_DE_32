@@ -1,0 +1,16 @@
+1. Find all orders where sales are greater than the average sales. (Subquery)  
+2. Find the highest sales order for each customer. (Subquery)  
+3. Calculate total sales for each customer. (CTE)  
+4. Find customers whose total sales are above average. (CTE + Subquery)  
+5. Rank all customers based on total sales. (Window Function)  
+6. Assign row numbers to each order within a customer. (Window Function + PARTITION BY)  
+7. Display top 3 customers based on total sales. (Window Function)  
+8. Write a query that shows: 
+	• Customer Name  
+	• Total Sales  
+	• Rank  
+9. Who are the top 5 customers?  
+10. Who are the bottom 5 customers?  
+11. Which customers made only one order?  
+12. Which customers have above-average sales?  
+13. What is the highest order value per customer? 
